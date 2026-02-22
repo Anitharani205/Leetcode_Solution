@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Anitharani205/Leetcode_Solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0134-gas-station](https://github.com/Anitharani205/Leetcode_Solution/tree/master/0134-gas-station) |
 | [0200-number-of-islands](https://github.com/Anitharani205/Leetcode_Solution/tree/master/0200-number-of-islands) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Anitharani205/Leetcode_Solution/tree/master/3314-construct-the-minimum-bitwise-array-i) |
@@ -36,4 +37,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Anitharani205/Leetcode_Solution/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+## Binary Search
+|  |
+| ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Anitharani205/Leetcode_Solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 <!---LeetCode Topics End-->

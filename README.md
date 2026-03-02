@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/Anitharani205/Leetcode_Solution/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/Anitharani205/Leetcode_Solution/tree/master/0904-fruit-into-baskets) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Anitharani205/Leetcode_Solution/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [2239-find-closest-number-to-zero](https://github.com/Anitharani205/Leetcode_Solution/tree/master/2239-find-closest-number-to-zero) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Anitharani205/Leetcode_Solution/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 ## Greedy
 |  |

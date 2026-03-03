@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Anitharani205/Leetcode_Solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0056-merge-intervals](https://github.com/Anitharani205/Leetcode_Solution/tree/master/0056-merge-intervals) |
 | [0134-gas-station](https://github.com/Anitharani205/Leetcode_Solution/tree/master/0134-gas-station) |
 | [0200-number-of-islands](https://github.com/Anitharani205/Leetcode_Solution/tree/master/0200-number-of-islands) |
 | [0875-koko-eating-bananas](https://github.com/Anitharani205/Leetcode_Solution/tree/master/0875-koko-eating-bananas) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Anitharani205/Leetcode_Solution/tree/master/0056-merge-intervals) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Anitharani205/Leetcode_Solution/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Counting
 |  |

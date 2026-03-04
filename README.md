@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Anitharani205/Leetcode_Solution/tree/master/0013-roman-to-integer) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Anitharani205/Leetcode_Solution/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 ## Binary Search
 |  |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Anitharani205/Leetcode_Solution/tree/master/0013-roman-to-integer) |
 | [0904-fruit-into-baskets](https://github.com/Anitharani205/Leetcode_Solution/tree/master/0904-fruit-into-baskets) |
 ## Sliding Window
 |  |
@@ -77,4 +79,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/Anitharani205/Leetcode_Solution/tree/master/0046-permutations) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/Anitharani205/Leetcode_Solution/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->

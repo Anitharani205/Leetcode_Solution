@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/Anitharani205/Leetcode_Solution/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Anitharani205/Leetcode_Solution/tree/master/0013-roman-to-integer) |
+| [0451-sort-characters-by-frequency](https://github.com/Anitharani205/Leetcode_Solution/tree/master/0451-sort-characters-by-frequency) |
 | [0454-4sum-ii](https://github.com/Anitharani205/Leetcode_Solution/tree/master/0454-4sum-ii) |
 | [0904-fruit-into-baskets](https://github.com/Anitharani205/Leetcode_Solution/tree/master/0904-fruit-into-baskets) |
 ## Sliding Window
@@ -73,11 +74,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Anitharani205/Leetcode_Solution/tree/master/0056-merge-intervals) |
+| [0451-sort-characters-by-frequency](https://github.com/Anitharani205/Leetcode_Solution/tree/master/0451-sort-characters-by-frequency) |
 | [0658-find-k-closest-elements](https://github.com/Anitharani205/Leetcode_Solution/tree/master/0658-find-k-closest-elements) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Anitharani205/Leetcode_Solution/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Counting
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Anitharani205/Leetcode_Solution/tree/master/0451-sort-characters-by-frequency) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Anitharani205/Leetcode_Solution/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Prefix Sum
 |  |
@@ -92,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/Anitharani205/Leetcode_Solution/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Anitharani205/Leetcode_Solution/tree/master/0013-roman-to-integer) |
+| [0451-sort-characters-by-frequency](https://github.com/Anitharani205/Leetcode_Solution/tree/master/0451-sort-characters-by-frequency) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Anitharani205/Leetcode_Solution/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 ## Two Pointers
 |  |
@@ -100,5 +104,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Anitharani205/Leetcode_Solution/tree/master/0451-sort-characters-by-frequency) |
 | [0658-find-k-closest-elements](https://github.com/Anitharani205/Leetcode_Solution/tree/master/0658-find-k-closest-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Anitharani205/Leetcode_Solution/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->

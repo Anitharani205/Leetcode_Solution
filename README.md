@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/Anitharani205/Leetcode_Solution/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Anitharani205/Leetcode_Solution/tree/master/0013-roman-to-integer) |
+| [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Anitharani205/Leetcode_Solution/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 ## Two Pointers
 |  |
 | ------- |

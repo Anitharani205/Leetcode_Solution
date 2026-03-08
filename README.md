@@ -96,11 +96,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/Anitharani205/Leetcode_Solution/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Anitharani205/Leetcode_Solution/tree/master/0013-roman-to-integer) |
+| [0392-is-subsequence](https://github.com/Anitharani205/Leetcode_Solution/tree/master/0392-is-subsequence) |
 | [0451-sort-characters-by-frequency](https://github.com/Anitharani205/Leetcode_Solution/tree/master/0451-sort-characters-by-frequency) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Anitharani205/Leetcode_Solution/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 ## Two Pointers
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/Anitharani205/Leetcode_Solution/tree/master/0392-is-subsequence) |
 | [0658-find-k-closest-elements](https://github.com/Anitharani205/Leetcode_Solution/tree/master/0658-find-k-closest-elements) |
 ## Heap (Priority Queue)
 |  |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/Anitharani205/Leetcode_Solution/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/Anitharani205/Leetcode_Solution/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |

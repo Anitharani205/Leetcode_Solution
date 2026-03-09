@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/Anitharani205/Leetcode_Solution/tree/master/0222-count-complete-tree-nodes) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Anitharani205/Leetcode_Solution/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Anitharani205/Leetcode_Solution/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Anitharani205/Leetcode_Solution/tree/master/3314-construct-the-minimum-bitwise-array-i) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Anitharani205/Leetcode_Solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0222-count-complete-tree-nodes](https://github.com/Anitharani205/Leetcode_Solution/tree/master/0222-count-complete-tree-nodes) |
 | [0658-find-k-closest-elements](https://github.com/Anitharani205/Leetcode_Solution/tree/master/0658-find-k-closest-elements) |
 | [0875-koko-eating-bananas](https://github.com/Anitharani205/Leetcode_Solution/tree/master/0875-koko-eating-bananas) |
 ## Hash Table
@@ -132,11 +134,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/Anitharani205/Leetcode_Solution/tree/master/0222-count-complete-tree-nodes) |
 | [0617-merge-two-binary-trees](https://github.com/Anitharani205/Leetcode_Solution/tree/master/0617-merge-two-binary-trees) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Anitharani205/Leetcode_Solution/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/Anitharani205/Leetcode_Solution/tree/master/0222-count-complete-tree-nodes) |
 | [0617-merge-two-binary-trees](https://github.com/Anitharani205/Leetcode_Solution/tree/master/0617-merge-two-binary-trees) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Anitharani205/Leetcode_Solution/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 <!---LeetCode Topics End-->

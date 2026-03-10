@@ -145,4 +145,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/Anitharani205/Leetcode_Solution/tree/master/0222-count-complete-tree-nodes) |
 | [0617-merge-two-binary-trees](https://github.com/Anitharani205/Leetcode_Solution/tree/master/0617-merge-two-binary-trees) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Anitharani205/Leetcode_Solution/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+## Database
+|  |
+| ------- |
+| [0596-classes-with-at-least-5-students](https://github.com/Anitharani205/Leetcode_Solution/tree/master/0596-classes-with-at-least-5-students) |
 <!---LeetCode Topics End-->

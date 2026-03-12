@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Anitharani205/Leetcode_Solution/tree/master/0013-roman-to-integer) |
 | [0509-fibonacci-number](https://github.com/Anitharani205/Leetcode_Solution/tree/master/0509-fibonacci-number) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Anitharani205/Leetcode_Solution/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [1025-divisor-game](https://github.com/Anitharani205/Leetcode_Solution/tree/master/1025-divisor-game) |
 ## Binary Search
 |  |
 | ------- |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Anitharani205/Leetcode_Solution/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/Anitharani205/Leetcode_Solution/tree/master/0509-fibonacci-number) |
 | [0583-delete-operation-for-two-strings](https://github.com/Anitharani205/Leetcode_Solution/tree/master/0583-delete-operation-for-two-strings) |
+| [1025-divisor-game](https://github.com/Anitharani205/Leetcode_Solution/tree/master/1025-divisor-game) |
 ## Recursion
 |  |
 | ------- |
@@ -151,4 +153,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0596-classes-with-at-least-5-students](https://github.com/Anitharani205/Leetcode_Solution/tree/master/0596-classes-with-at-least-5-students) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/Anitharani205/Leetcode_Solution/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/Anitharani205/Leetcode_Solution/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->

@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Anitharani205/Leetcode_Solution/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Anitharani205/Leetcode_Solution/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1732-find-the-highest-altitude](https://github.com/Anitharani205/Leetcode_Solution/tree/master/1732-find-the-highest-altitude) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Anitharani205/Leetcode_Solution/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2239-find-closest-number-to-zero](https://github.com/Anitharani205/Leetcode_Solution/tree/master/2239-find-closest-number-to-zero) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Anitharani205/Leetcode_Solution/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 ## Greedy
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/Anitharani205/Leetcode_Solution/tree/master/0200-number-of-islands) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Anitharani205/Leetcode_Solution/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Anitharani205/Leetcode_Solution/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Anitharani205/Leetcode_Solution/tree/master/0509-fibonacci-number) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Anitharani205/Leetcode_Solution/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1025-divisor-game](https://github.com/Anitharani205/Leetcode_Solution/tree/master/1025-divisor-game) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Anitharani205/Leetcode_Solution/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 ## Binary Search
 |  |
 | ------- |
@@ -86,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Anitharani205/Leetcode_Solution/tree/master/0451-sort-characters-by-frequency) |
 | [0658-find-k-closest-elements](https://github.com/Anitharani205/Leetcode_Solution/tree/master/0658-find-k-closest-elements) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Anitharani205/Leetcode_Solution/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Anitharani205/Leetcode_Solution/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 ## Counting
 |  |
 | ------- |
@@ -95,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1732-find-the-highest-altitude](https://github.com/Anitharani205/Leetcode_Solution/tree/master/1732-find-the-highest-altitude) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Anitharani205/Leetcode_Solution/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 ## Backtracking
 |  |
 | ------- |
@@ -118,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Anitharani205/Leetcode_Solution/tree/master/0451-sort-characters-by-frequency) |
 | [0658-find-k-closest-elements](https://github.com/Anitharani205/Leetcode_Solution/tree/master/0658-find-k-closest-elements) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Anitharani205/Leetcode_Solution/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 ## Bucket Sort
 |  |
 | ------- |

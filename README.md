@@ -31,12 +31,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/Anitharani205/Leetcode_Solution/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Anitharani205/Leetcode_Solution/tree/master/0200-number-of-islands) |
 | [0617-merge-two-binary-trees](https://github.com/Anitharani205/Leetcode_Solution/tree/master/0617-merge-two-binary-trees) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Anitharani205/Leetcode_Solution/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/Anitharani205/Leetcode_Solution/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Anitharani205/Leetcode_Solution/tree/master/0200-number-of-islands) |
 | [0617-merge-two-binary-trees](https://github.com/Anitharani205/Leetcode_Solution/tree/master/0617-merge-two-binary-trees) |
 ## Union-Find
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/Anitharani205/Leetcode_Solution/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/Anitharani205/Leetcode_Solution/tree/master/0222-count-complete-tree-nodes) |
 | [0450-delete-node-in-a-bst](https://github.com/Anitharani205/Leetcode_Solution/tree/master/0450-delete-node-in-a-bst) |
 | [0617-merge-two-binary-trees](https://github.com/Anitharani205/Leetcode_Solution/tree/master/0617-merge-two-binary-trees) |
@@ -166,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/Anitharani205/Leetcode_Solution/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/Anitharani205/Leetcode_Solution/tree/master/0222-count-complete-tree-nodes) |
 | [0450-delete-node-in-a-bst](https://github.com/Anitharani205/Leetcode_Solution/tree/master/0450-delete-node-in-a-bst) |
 | [0617-merge-two-binary-trees](https://github.com/Anitharani205/Leetcode_Solution/tree/master/0617-merge-two-binary-trees) |

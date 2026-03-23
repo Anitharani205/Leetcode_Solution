@@ -160,12 +160,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Anitharani205/Leetcode_Solution/tree/master/0222-count-complete-tree-nodes) |
+| [0450-delete-node-in-a-bst](https://github.com/Anitharani205/Leetcode_Solution/tree/master/0450-delete-node-in-a-bst) |
 | [0617-merge-two-binary-trees](https://github.com/Anitharani205/Leetcode_Solution/tree/master/0617-merge-two-binary-trees) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Anitharani205/Leetcode_Solution/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Anitharani205/Leetcode_Solution/tree/master/0222-count-complete-tree-nodes) |
+| [0450-delete-node-in-a-bst](https://github.com/Anitharani205/Leetcode_Solution/tree/master/0450-delete-node-in-a-bst) |
 | [0617-merge-two-binary-trees](https://github.com/Anitharani205/Leetcode_Solution/tree/master/0617-merge-two-binary-trees) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Anitharani205/Leetcode_Solution/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 ## Database
@@ -188,4 +190,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/Anitharani205/Leetcode_Solution/tree/master/0240-search-a-2d-matrix-ii) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0450-delete-node-in-a-bst](https://github.com/Anitharani205/Leetcode_Solution/tree/master/0450-delete-node-in-a-bst) |
 <!---LeetCode Topics End-->

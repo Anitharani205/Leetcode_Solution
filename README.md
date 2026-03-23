@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/Anitharani205/Leetcode_Solution/tree/master/0134-gas-station) |
 | [0200-number-of-islands](https://github.com/Anitharani205/Leetcode_Solution/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/Anitharani205/Leetcode_Solution/tree/master/0209-minimum-size-subarray-sum) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Anitharani205/Leetcode_Solution/tree/master/0240-search-a-2d-matrix-ii) |
 | [0454-4sum-ii](https://github.com/Anitharani205/Leetcode_Solution/tree/master/0454-4sum-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/Anitharani205/Leetcode_Solution/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/Anitharani205/Leetcode_Solution/tree/master/0658-find-k-closest-elements) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Anitharani205/Leetcode_Solution/tree/master/0200-number-of-islands) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Anitharani205/Leetcode_Solution/tree/master/0240-search-a-2d-matrix-ii) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Anitharani205/Leetcode_Solution/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Anitharani205/Leetcode_Solution/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 ## Bit Manipulation
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Anitharani205/Leetcode_Solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Anitharani205/Leetcode_Solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/Anitharani205/Leetcode_Solution/tree/master/0222-count-complete-tree-nodes) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Anitharani205/Leetcode_Solution/tree/master/0240-search-a-2d-matrix-ii) |
 | [0658-find-k-closest-elements](https://github.com/Anitharani205/Leetcode_Solution/tree/master/0658-find-k-closest-elements) |
 | [0875-koko-eating-bananas](https://github.com/Anitharani205/Leetcode_Solution/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Anitharani205/Leetcode_Solution/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -181,4 +184,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Anitharani205/Leetcode_Solution/tree/master/0002-add-two-numbers) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/Anitharani205/Leetcode_Solution/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->

@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Anitharani205/Leetcode_Solution/tree/master/0022-generate-parentheses) |
 | [0040-combination-sum-ii](https://github.com/Anitharani205/Leetcode_Solution/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Anitharani205/Leetcode_Solution/tree/master/0046-permutations) |
 ## String
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/Anitharani205/Leetcode_Solution/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Anitharani205/Leetcode_Solution/tree/master/0013-roman-to-integer) |
+| [0022-generate-parentheses](https://github.com/Anitharani205/Leetcode_Solution/tree/master/0022-generate-parentheses) |
 | [0392-is-subsequence](https://github.com/Anitharani205/Leetcode_Solution/tree/master/0392-is-subsequence) |
 | [0451-sort-characters-by-frequency](https://github.com/Anitharani205/Leetcode_Solution/tree/master/0451-sort-characters-by-frequency) |
 | [0583-delete-operation-for-two-strings](https://github.com/Anitharani205/Leetcode_Solution/tree/master/0583-delete-operation-for-two-strings) |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Anitharani205/Leetcode_Solution/tree/master/0022-generate-parentheses) |
 | [0392-is-subsequence](https://github.com/Anitharani205/Leetcode_Solution/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/Anitharani205/Leetcode_Solution/tree/master/0509-fibonacci-number) |
 | [0583-delete-operation-for-two-strings](https://github.com/Anitharani205/Leetcode_Solution/tree/master/0583-delete-operation-for-two-strings) |

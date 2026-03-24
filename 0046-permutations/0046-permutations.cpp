@@ -1,7 +1,7 @@
 class Solution {
 public:
 
-     void perms(int i,vector<vector<int>>& result,vector<int>& nums)
+    void perms(int i,vector<vector<int>>& result,vector<int>& nums)
     {
         if(i==nums.size())
         {
@@ -16,9 +16,9 @@ public:
         }
     }
     vector<vector<int>> permute(vector<int>& nums) {
-       vector<vector<int>> result;
-       perms(0,result,nums);
-       return result;
+      vector<vector<int>> result;
+      perms(0,result,nums);
+      return result;
     }
 
    

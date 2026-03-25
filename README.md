@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Anitharani205/Leetcode_Solution/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Anitharani205/Leetcode_Solution/tree/master/0046-permutations) |
 | [0056-merge-intervals](https://github.com/Anitharani205/Leetcode_Solution/tree/master/0056-merge-intervals) |
+| [0090-subsets-ii](https://github.com/Anitharani205/Leetcode_Solution/tree/master/0090-subsets-ii) |
 | [0134-gas-station](https://github.com/Anitharani205/Leetcode_Solution/tree/master/0134-gas-station) |
 | [0198-house-robber](https://github.com/Anitharani205/Leetcode_Solution/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Anitharani205/Leetcode_Solution/tree/master/0200-number-of-islands) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/Anitharani205/Leetcode_Solution/tree/master/0090-subsets-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/Anitharani205/Leetcode_Solution/tree/master/0222-count-complete-tree-nodes) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Anitharani205/Leetcode_Solution/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Anitharani205/Leetcode_Solution/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Anitharani205/Leetcode_Solution/tree/master/0022-generate-parentheses) |
 | [0040-combination-sum-ii](https://github.com/Anitharani205/Leetcode_Solution/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Anitharani205/Leetcode_Solution/tree/master/0046-permutations) |
+| [0090-subsets-ii](https://github.com/Anitharani205/Leetcode_Solution/tree/master/0090-subsets-ii) |
 ## String
 |  |
 | ------- |

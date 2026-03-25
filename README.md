@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Anitharani205/Leetcode_Solution/tree/master/0695-max-area-of-island) |
 | [0875-koko-eating-bananas](https://github.com/Anitharani205/Leetcode_Solution/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/Anitharani205/Leetcode_Solution/tree/master/0904-fruit-into-baskets) |
+| [0994-rotting-oranges](https://github.com/Anitharani205/Leetcode_Solution/tree/master/0994-rotting-oranges) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Anitharani205/Leetcode_Solution/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Anitharani205/Leetcode_Solution/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Anitharani205/Leetcode_Solution/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Anitharani205/Leetcode_Solution/tree/master/0200-number-of-islands) |
 | [0617-merge-two-binary-trees](https://github.com/Anitharani205/Leetcode_Solution/tree/master/0617-merge-two-binary-trees) |
 | [0695-max-area-of-island](https://github.com/Anitharani205/Leetcode_Solution/tree/master/0695-max-area-of-island) |
+| [0994-rotting-oranges](https://github.com/Anitharani205/Leetcode_Solution/tree/master/0994-rotting-oranges) |
 ## Union-Find
 |  |
 | ------- |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Anitharani205/Leetcode_Solution/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Anitharani205/Leetcode_Solution/tree/master/0240-search-a-2d-matrix-ii) |
 | [0695-max-area-of-island](https://github.com/Anitharani205/Leetcode_Solution/tree/master/0695-max-area-of-island) |
+| [0994-rotting-oranges](https://github.com/Anitharani205/Leetcode_Solution/tree/master/0994-rotting-oranges) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Anitharani205/Leetcode_Solution/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Anitharani205/Leetcode_Solution/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 ## Bit Manipulation

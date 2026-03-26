@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Anitharani205/Leetcode_Solution/tree/master/0392-is-subsequence) |
 | [0451-sort-characters-by-frequency](https://github.com/Anitharani205/Leetcode_Solution/tree/master/0451-sort-characters-by-frequency) |
 | [0583-delete-operation-for-two-strings](https://github.com/Anitharani205/Leetcode_Solution/tree/master/0583-delete-operation-for-two-strings) |
+| [1143-longest-common-subsequence](https://github.com/Anitharani205/Leetcode_Solution/tree/master/1143-longest-common-subsequence) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Anitharani205/Leetcode_Solution/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 ## Two Pointers
 |  |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Anitharani205/Leetcode_Solution/tree/master/0509-fibonacci-number) |
 | [0583-delete-operation-for-two-strings](https://github.com/Anitharani205/Leetcode_Solution/tree/master/0583-delete-operation-for-two-strings) |
 | [1025-divisor-game](https://github.com/Anitharani205/Leetcode_Solution/tree/master/1025-divisor-game) |
+| [1143-longest-common-subsequence](https://github.com/Anitharani205/Leetcode_Solution/tree/master/1143-longest-common-subsequence) |
 ## Recursion
 |  |
 | ------- |

@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Anitharani205/Leetcode_Solution/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/Anitharani205/Leetcode_Solution/tree/master/0658-find-k-closest-elements) |
 | [0695-max-area-of-island](https://github.com/Anitharani205/Leetcode_Solution/tree/master/0695-max-area-of-island) |
+| [0739-daily-temperatures](https://github.com/Anitharani205/Leetcode_Solution/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/Anitharani205/Leetcode_Solution/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/Anitharani205/Leetcode_Solution/tree/master/0904-fruit-into-baskets) |
 | [0994-rotting-oranges](https://github.com/Anitharani205/Leetcode_Solution/tree/master/0994-rotting-oranges) |
@@ -230,4 +231,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0450-delete-node-in-a-bst](https://github.com/Anitharani205/Leetcode_Solution/tree/master/0450-delete-node-in-a-bst) |
+## Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/Anitharani205/Leetcode_Solution/tree/master/0739-daily-temperatures) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/Anitharani205/Leetcode_Solution/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->

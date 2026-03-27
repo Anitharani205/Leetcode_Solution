@@ -234,9 +234,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Anitharani205/Leetcode_Solution/tree/master/0155-min-stack) |
 | [0739-daily-temperatures](https://github.com/Anitharani205/Leetcode_Solution/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/Anitharani205/Leetcode_Solution/tree/master/0739-daily-temperatures) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Anitharani205/Leetcode_Solution/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
